@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Webapp to predict Diabetes in an individual using Machine Learning.
+Webpage to predict Diabetes in an individual using Machine Learning using streamlit.
